@@ -194,7 +194,7 @@ cython_debug/
 
 #
 .DS_STORE
-.Readme/*
-Readme
+# .Readme/*
+# Readme
 *.md
 *.txt
